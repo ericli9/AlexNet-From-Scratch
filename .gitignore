@@ -1,0 +1,32 @@
+# Data and model outputs
+data/
+checkpoints/
+runs/
+*.pt
+*.pth
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.pyc 
+.venv/
+.ipynb_checkpoints/
+
+# CUDA and C++ builds
+build/
+*.o 
+*.obj 
+*.exe 
+*.so
+*.dll
+
+# Profiler reports
+*.nsys-rep 
+*.ncu-rep 
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
