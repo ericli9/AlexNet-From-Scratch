@@ -1,1 +1,1 @@
-This project implements the revolutionary AlexNet paper from 2012, trained on the Tiny ImageNet dataset. It has two parts: a PyTorch implementation for a reference, and a from-scratch implementation in CUDA.
+This project implements the AlexNet paper from 2012, trained on the Tiny ImageNet dataset. It has two parts: a PyTorch implementation for a reference, and a from-scratch implementation in CUDA.
